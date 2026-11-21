@@ -1,0 +1,8 @@
+{
+  "name": "UZ GAME WORLD",
+  "description": "3 yoshdan 20 yoshgacha bo'lgan foydalanuvchilar uchun mo'ljallangan zamonaviy 3D onlayn o'yinlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
